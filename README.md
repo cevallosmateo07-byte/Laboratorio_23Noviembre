@@ -1,2 +1,4 @@
 # Laboratorio_23Noviembre
-Laboratorio de programación web
+# Nombre del proyecto: AulaTech
+# Objetivo: Pagina Web informativa con un catalogo breve de servicios.
+# Tecnologías usadas: HTML5 y CSS3
